@@ -1,6 +1,6 @@
 About
 =====
-pyipmsg is an IP Messenger(http://www.ipmsg.org) alternative for Gnome, written in python.
+ipmsg-gtk is an ipmsg frontend for Gnome.
 
 
 Requirements
@@ -25,16 +25,6 @@ To install::
     sudo python setup.py install
 
 Then add "pyipmsg" to the panel.
-
-
-Known issues
-============
-The M2Crypto package on Pypi seems not working properly.
-If you encounterd errors while installing M2Crypto using easy_install,
-try download the package and manually install it instead.
-Besides, it requires SWIG and OpenSSL being installed.
-Hopefully the dependency to M2Crypto will be removed in the next version of Pyipmsg.
-
 
 Tips
 ====
