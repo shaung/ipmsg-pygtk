@@ -28,5 +28,5 @@ Then add "pyipmsg" to the panel.
 
 Tips
 ====
-You can use the <Meta>I shortcut to activate the main menu.
+You can use the <kbd>Meta</kbd>+<kbd>I</kbd> shortcut to activate the main menu.
 
